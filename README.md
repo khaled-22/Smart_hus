@@ -9,7 +9,7 @@ Dette prosjektet er et eksempel på et smart hjem system som er bygget ved hjelp
 
 ## Krav
 * Arduino Mega 2560
-* Keypad-modul
+* Keypad-modul, RFID-leser, stepper motor, photoresistor, servo motor, knapper, leds og bredboard
 * Eventuelle reléer eller enheter du ønsker å kontrollere
 ## Installasjon
 1. Kobling:
